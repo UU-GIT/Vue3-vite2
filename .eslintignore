@@ -1,0 +1,6 @@
+src/lib/**/*
+public/**/*
+src/**/*.d.ts
+node_modules/**/*
+vite.config.js
+.eslintrc.js
