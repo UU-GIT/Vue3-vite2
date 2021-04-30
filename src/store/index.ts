@@ -5,12 +5,11 @@ import mutations from './mutations';
 import getters from './getters';
 import actions from './actions';
 
-
 const store = createStore({
     state,
     mutations,
     getters,
-    actions
+    actions,
 });
 
 export default store;

@@ -4,3 +4,5 @@ src/**/*.d.ts
 node_modules/**/*
 vite.config.js
 .eslintrc.js
+vite.config.ts
+env/

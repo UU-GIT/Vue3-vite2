@@ -29,6 +29,10 @@ module.exports = {
     'no-mixed-operators': 0,
     'no-callback-literal': 0,
     'no-mixed-spaces-and-tabs': 0, // 是否禁止使用 空格 和 tab 混合缩进
+    'object-curly-newline': 0, //  需要大括号内的换行符
+    'import/no-unresolved': 0,
+    'import/extensions': 0,
+    'vue/no-v-for-template-key': 0,
 
     indent: [0, 'tab'],
     'linebreak-style': [0, 'windows'], // 限制换行符为 LF 或 CRLF

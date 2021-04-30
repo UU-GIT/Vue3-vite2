@@ -2,11 +2,13 @@ import vue from '@vitejs/plugin-vue';
 import { defineConfig } from 'vite';
 import vitePluginImp from 'vite-plugin-imp';
 import { resolve } from 'path';
+import { svgBuilder } from './env/utils/svgBuilder'
 
 // https://vitejs.dev/config/
 export default defineConfig({
   plugins: [
     vue(),
+    svgBuilder('./src/svgFolder/'),
     vitePluginImp({
       libList: [
         // vant 按需引入
@@ -20,7 +22,7 @@ export default defineConfig({
           },
         },
       ],
-    }),
+    })
   ],
   resolve: {
     alias: {

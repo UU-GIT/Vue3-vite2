@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="28px" height="28px" viewBox="0 0 28 28" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 61.1 (89650) - https://sketch.com -->
+    <title>ic_tab_home_sel</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="97.2883876%" y1="24.5203086%" x2="6.5172248%" y2="73.3359673%" id="linearGradient-1">
+            <stop stop-color="#279FFA" offset="0%"></stop>
+            <stop stop-color="#286FF6" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="页面-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="首页" transform="translate(-60.000000, -623.000000)" fill="url(#linearGradient-1)">
+            <g id="TABBAR-Copy-5" transform="translate(0.000000, 618.000000)">
+                <g id="首页-2" transform="translate(60.000000, 5.000000)">
+                    <g id="首页" transform="translate(1.000000, 1.000000)">
+                        <path d="M13.6941356,1.16934501 L25.2164578,12.2801557 C25.6140168,12.6635162 25.625527,13.2965765 25.2421665,13.6941356 C25.0536935,13.8895891 24.7938441,14 24.5223222,14 L20.9996778,13.9991893 L21,21 C21,22.6568542 19.6568542,24 18,24 L15,24 L15,18.5 C15,17.9477153 14.5522847,17.5 14,17.5 L12,17.5 C11.4871642,17.5 11.0644928,17.8860402 11.0067277,18.3833789 L11,18.5 L11,24 L8,24 C6.34314575,24 5,22.6568542 5,21 L4.9996778,13.9991893 L1.4776778,14 C0.925393053,14 0.477677803,13.5522847 0.477677803,13 C0.477677803,12.7284781 0.588088712,12.4686287 0.783542232,12.2801557 L12.3058644,1.16934501 C12.6932402,0.795804075 13.3067598,0.795804075 13.6941356,1.16934501 Z" id="形状结合"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
